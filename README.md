@@ -31,5 +31,6 @@ between road accidents and key macroeconomic indicators.
 - Model achieved R-squared of 0.81
 
 ## Files
-- `analysis.do` — full modelling and econometric pipeline in Stata
-- `report.pdf` — final written report
+- `Consolidated data set 1997-2004 monthly road accidents.xlsx` - fully complied dataset of macroeconomic variables
+- `Macro_Indicators_Analysis.do` - full modelling and econometric pipeline in Stata
+- `ECO-3402_FinalPaper.pdf` - final written paper
